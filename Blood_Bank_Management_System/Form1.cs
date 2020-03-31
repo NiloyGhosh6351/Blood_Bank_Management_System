@@ -26,5 +26,20 @@ namespace Blood_Bank_Management_System
         {
 
         }
+
+        private void labelApositiveDonor_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+        }
     }
 }
