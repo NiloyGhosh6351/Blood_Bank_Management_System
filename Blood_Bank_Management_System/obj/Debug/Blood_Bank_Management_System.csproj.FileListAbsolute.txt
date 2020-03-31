@@ -2,7 +2,6 @@ C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_Sy
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\bin\Debug\Blood_Bank_Management_System.exe
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\bin\Debug\Blood_Bank_Management_System.pdb
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.csprojAssemblyReference.cache
-C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.Form1.resources
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.Properties.Resources.resources
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.csproj.GenerateResource.cache
 C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.csproj.CoreCompileInputs.cache
@@ -37,3 +36,4 @@ C:\Users\asifm\Documents\GitHub\Blood_Bank_Management_System\Blood_Bank_Manageme
 C:\Users\asifm\Documents\GitHub\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.csproj.CoreCompileInputs.cache
 C:\Users\asifm\Documents\GitHub\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.exe
 C:\Users\asifm\Documents\GitHub\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.pdb
+C:\Users\ANUP\source\repos\Blood_Bank_Management_System\Blood_Bank_Management_System\obj\Debug\Blood_Bank_Management_System.FormHome.resources
