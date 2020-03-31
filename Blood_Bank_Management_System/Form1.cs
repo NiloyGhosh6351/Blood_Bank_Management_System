@@ -10,11 +10,21 @@ using System.Windows.Forms;
 
 namespace Blood_Bank_Management_System
 {
-    public partial class Form1 : Form
+    public partial class FormHome : Form
     {
-        public Form1()
+        public FormHome()
         {
             InitializeComponent();
+        }
+
+        private void checkBox1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
