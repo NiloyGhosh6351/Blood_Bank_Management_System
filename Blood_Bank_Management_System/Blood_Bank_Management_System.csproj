@@ -50,11 +50,26 @@
     </Compile>
     <Compile Include="GUI\Home.Designer.cs">
       <DependentUpon>Home.cs</DependentUpon>
+<<<<<<< HEAD
+=======
+    </Compile>
+    <Compile Include="GUI\user.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\user.Designer.cs">
+      <DependentUpon>user.cs</DependentUpon>
+>>>>>>> 417d264d7bc38630ae8271dde1bbb4409fb09026
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="GUI\Home.resx">
       <DependentUpon>Home.cs</DependentUpon>
+<<<<<<< HEAD
+=======
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\user.resx">
+      <DependentUpon>user.cs</DependentUpon>
+>>>>>>> 417d264d7bc38630ae8271dde1bbb4409fb09026
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
