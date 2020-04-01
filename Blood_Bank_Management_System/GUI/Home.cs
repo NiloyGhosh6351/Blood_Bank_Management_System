@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Blood_Bank_Management_System.GUI;
 
 namespace Blood_Bank_Management_System
 {
@@ -40,6 +41,13 @@ namespace Blood_Bank_Management_System
         private void pictureBox1_Click(object sender, EventArgs e)
         {
             this.Hide();
+        }
+
+        private void userToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            //open user 
+            formuser users = new formuser();
+            users.Show();
         }
     }
 }
